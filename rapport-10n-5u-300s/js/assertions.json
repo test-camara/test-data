@@ -1,0 +1,10 @@
+{
+  "simulation": "cojo.loadtesting.SC3AnonymousMediumSimulation",
+  "simulationId": "sc3anonymousmediumsimulation-20220803183335822",
+  "start": 1659551618509,
+  "description": "Anonymous Medium Simulation : 5 users",
+  "scenarios": ["Anonymous browsing medium"],
+  "assertions": [
+
+  ]
+}
